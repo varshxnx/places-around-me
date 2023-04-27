@@ -178,20 +178,20 @@ In 1988, Bijli took over the running of the cinema hall, which was revamped in 1
 ```
 
 ## Output:
-![output](./screenshort/out1.png)
+![output](./screenshorts/out1.png)
 
-![output](./screenshort/out2.png)
+![output](./screenshorts/out2.png)
 
-![output](./screenshort/out3.png)
+![output](./screenshorts/out3.png)
 
-![output](./screenshort/out4.png)
+![output](./screenshorts/out4.png)
 
-![output](./screenshort/out5.png)
+![output](./screenshorts/out5.png)
 
-![output](./screenshort/out6.png)
+![output](./screenshorts/out6.png)
 
 ## html validator
-![HTML Validator](./screenshort/valid.png)
+![HTML Validator](./screenshorts/valid.png)
 
 ## Result:
 The program for implementing image map is executed successfully.
