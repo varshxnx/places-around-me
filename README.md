@@ -178,7 +178,7 @@ In 1988, Bijli took over the running of the cinema hall, which was revamped in 1
 ```
 
 ## Output:
-![output](./screenshorts/out1.png)
+![output](./out1.png)
 
 ![output](./screenshorts/out2.png)
 
